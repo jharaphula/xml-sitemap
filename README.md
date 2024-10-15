@@ -6,6 +6,8 @@ This is a Simple app to Generate xml Sitemap for any PHP websites. You just need
 ignore[] = xml-sitemap.php
 ignore[] = phpmailer
 
+# Technical details for xml Sitemap generator #
+
 Once ini file Configured. Open xml-sitemap.php file. It will Create sitemap.xml for your website or blog.
 
 This xml Sitemap contains tags like "loc", "lastmod", "changefreq" and "priority". You can Set all these parameters from xml-sitemap.php file.
